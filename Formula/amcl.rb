@@ -1,9 +1,9 @@
 class Amcl < Formula
   desc "A standards compliant C cryptographic library with no external dependencies, specifically designed to support the Internet of Things (IoT)."
-  homepage "https://github.com/milagro-crypto/milagro-crypto-c"
-  version "4.7.0"
-  url "https://github.com/milagro-crypto/milagro-crypto-c/archive/4.7.0.tar.gz"
-  sha256 "1c17bfbc384723b25a274091082c263ff87453a4e347a50d96c174defaddc979"
+  homepage "https://github.com/xaptum/amcl"
+  version "4.7.3"
+  url "https://github.com/xaptum/amcl/archive/4.7.3.tar.gz"
+  sha256 "d32c3a10f04db797c6ad863ecac998228ff281b482b4daa936ff80b0e824396c"
 
   depends_on "cmake" => :build
 
